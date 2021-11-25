@@ -15,3 +15,5 @@ jobs:
       uses: ajinabraham/njsscan-action@v5
       with:
         args: '.'
+
+#test
